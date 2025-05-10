@@ -18,5 +18,3 @@ This Power BI report provides a financial analysis for FestMan Stores from 01/01
 - The dataset is embedded in the PBIX file; no external data connection is required.
 - For additional insights, you can modify the visuals or connect to your own data sources if needed.
 
-## Screenshots
-![Report Overview](financial_performance_analysis/FestMan Stores Financial Analysis Report.jpg)  
